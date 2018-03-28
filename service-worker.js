@@ -6,7 +6,7 @@ const
   CACHE = version + '::PWAsite',
   offlineURL = '/offline/',
   installFilesEssential = [
-    '/',
+    '/eassist',
     '/manifest.json',
     '/css/styles.css',
     '/js/main.js',
